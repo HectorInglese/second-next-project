@@ -10,7 +10,7 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: 'Second Fazt Video Project',
-  description: 'Project made following Next.js',
+  description: 'Project made following Fazt Video',
 }
 
 export default function RootLayout({
